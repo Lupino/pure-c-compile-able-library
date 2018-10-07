@@ -1,0 +1,43 @@
+{
+  "name": "pure-c-compile-able-library",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "pure-c/purescript-prelude#master",
+    "purescript-console": "pure-c/purescript-console#master",
+    "purescript-effect": "pure-c/purescript-effect#master",
+    "purescript-assert": "pure-c/purescript-assert#master",
+    "purescript-lazy": "pure-c/purescript-lazy#master",
+    "purescript-partial": "pure-c/purescript-partial#master",
+    "purescript-unsafe-coerce": "pure-c/purescript-unsafe-coerce#master",
+    "purescript-control": "pure-c/purescript-control#master",
+    "purescript-math": "pure-c/purescript-math#master",
+    "purescript-foldable-traversable": "pure-c/purescript-foldable-traversable#master",
+    "purescript-refs": "pure-c/purescript-refs#master",
+    "purescript-st": "pure-c/purescript-st#master",
+    "purescript-functions": "pure-c/purescript-functions#master",
+    "purescript-unfoldable": "Lupino/purescript-unfoldable#master",
+    "purescript-transformers": "^4.1.0"
+  },
+  "resolutions": {
+    "purescript-prelude": "master",
+    "purescript-console": "master",
+    "purescript-effect": "master",
+    "purescript-assert": "master",
+    "purescript-lazy": "master",
+    "purescript-partial": "master",
+    "purescript-unsafe-coerce": "master",
+    "purescript-control": "master",
+    "purescript-math": "master",
+    "purescript-foldable-traversable": "master",
+    "purescript-refs": "master",
+    "purescript-st": "master",
+    "purescript-unfoldable": "master",
+    "purescript-functions": "master"
+  }
+}
